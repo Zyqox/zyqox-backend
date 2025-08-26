@@ -1,0 +1,4 @@
+Flask
+tldextract
+joblib
+scikit-learn
